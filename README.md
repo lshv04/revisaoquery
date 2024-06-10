@@ -6,8 +6,8 @@
 Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de revisar o conceito de media query e diferentes formas de utilizá-lo.
 
 ## ✔️ Técnicas e tecnologias utilizadas
-HTML5: Para a marcação semântica do conteúdo.
-CSS3: Para estilização e layout, com foco em Media query
+HTML5: Para a marcação semântica do conteúdo;
+CSS3: Para estilização e layout, com foco em Media query;
 Media Queries: Implementadas para garantir que o site se adapte perfeitamente a diferentes tamanhos de tela, analisando e testando transfomação de linhas em colunas, cores , configurações de imagens e outros.
 
 ## 📁 Acesso ao projeto
